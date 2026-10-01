@@ -1,8 +1,0 @@
-.pnpm-store/
-npm-debug.log*
-build/
-.env
-.cache/
-.next/
-yarn-error.log*
-node_modules/
