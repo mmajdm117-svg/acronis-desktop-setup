@@ -1,0 +1,9 @@
+# This file is used to override language statistics
+
+*.yaml linguist-detectable=false
+docs/*.html linguist-vendored
+**/*.js linguist-detectable
+src/**/*.js linguist-detectable
+*.html linguist-vendored
+
+*.json linguist-detectable=false
